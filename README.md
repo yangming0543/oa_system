@@ -9,7 +9,7 @@
 <table align="center" cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
-      <td align="center" valign="middle" colspan="3">
+      <td align="center" valign="middle" >
 	      <a href="http://www.ccflow.org/?from=oasys" target="_blank">
 					<img src="https://platform-wxmall-1251990035.cos.ap-shanghai.myqcloud.com/ccflow.png">
 				</a>
