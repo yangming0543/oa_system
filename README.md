@@ -1,6 +1,23 @@
 ##	oasys(OA自动化办公系统)
  办公自动化（OA）是面向组织的日常运作和管理，员工及管理者使用频率最高的应用系统，极大提高公司的办公效率。
 
+
+<p align="center">
+  <b>特别赞助</b>
+</p>
+<br/>
+<table align="center" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td align="center" valign="middle" colspan="3">
+	      <a href="http://www.ccflow.org/?from=oasys" target="_blank">
+					<img src="https://platform-wxmall-1251990035.cos.ap-shanghai.myqcloud.com/ccflow.png">
+				</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ---
 ### 最近做了一个微信小程序 —— 垃圾识别精灵
 #### 大家感兴趣的话 可以微信扫码体验一下,也可以在微信当中搜索小程序：垃圾识别精灵。 
