@@ -6,13 +6,17 @@
  [ ![输入图片说明](http://ccflow.org/AD/TitleSmall.jpg)
 ](http://ccflow.org/?frm=oasys)
 
-###	1.项目介绍
-oasys是一个OA办公自动化系统，使用Maven进行项目管理，基于springboot框架开发的项目，mysql底层数据库，前端采用freemarker模板引擎，Bootstrap作为前端UI框架，集成了jpa、mybatis等框架。作为初学springboot的同学是一个很不错的项目，如果想在此基础上面进行OA的增强，也是一个不错的方案。
-### 2.框架介绍
+#### 新品-垃圾识别精灵
+- 可以搜索微信号进入.
+- [详细介绍](https://gitee.com/aaluoxiang/oa_system/wikis/pages?sort_id=7828855&doc_id=99583)
+
+#### 项目介绍
+- oasys是一个OA办公自动化系统，使用Maven进行项目管理。
+- 基于springboot框架开发的项目，mysql底层数据库，前端采用freemarker模板引擎，Bootstrap作为前端UI框架。
+- 集成了jpa、mybatis等框架。作为初学springboot的同学是一个很不错的项目，如果想在此基础上面进行OA的增强，也是一个不错的方案。
 #### 项目结构
 ![项目结构](https://images.gitee.com/uploads/images/2018/0926/164310_e781580c_1277461.png "项目结构目录.png")
-#### 前端
-
+#### 前端技术
 | 技术      |    名称| 版本|	官网|
 | :--------: | :--------:| :--: |:--:|
 | freemarker|模板引擎|springboot1.5.6.RELEASE集成版本|https://freemarker.apache.org/|
@@ -21,7 +25,7 @@ oasys是一个OA办公自动化系统，使用Maven进行项目管理，基于sp
 |kindeditor|HTML可视化编辑器|4.1.10|http://kindeditor.net|
 |My97 DatePicker|时间选择器|4.8 Beta4|http://www.my97.net/|
 
-#### 后端
+#### 后端技术
 
 | 技术 | 名称 | 版本 | 官网 |
 | :--------: | :--------:|:---:|:------:|
@@ -31,7 +35,7 @@ oasys是一个OA办公自动化系统，使用Maven进行项目管理，基于sp
 |fastjson|json解析包|1.2.36|https://github.com/alibaba/fastjson|
 |pagehelper|Mybatis分页插件|1.0.0|https://pagehelper.github.io|
 
-### 3.部署流程
+#### 部署流程
 
 	    1.下载项目、把oasys.sql导入本地数据库
 		2. 修改application.properties，
@@ -40,7 +44,7 @@ oasys是一个OA办公自动化系统，使用Maven进行项目管理，基于sp
 		5. OasysApplication.java中的main方法运行，控制台没有报错信息，数据启动时间多久即运行成功
 		6. 在浏览器中输入localhost:8088/logins
 		
-### 4. 演示地址
+#### 4. 演示地址
 
 #####     演示地址链接：http://oa.lxsir.cn:8088/index (维护中，暂时将关闭)
 #####     账号：test      密码：test
