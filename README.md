@@ -2,7 +2,7 @@
  - 办公自动化（OA）是面向组织的日常运作和管理,员工及管理者使用频率最高的应用系统，极大提高公司的办公效率。
  - 如果oaSys帮助了您，请给我们点Star.
  - QQ交流群：869544047
-#### 特别赞助商
+#### 合作伙伴
  [ ![输入图片说明](http://ccflow.org/AD/TitleSmall.jpg)
 ](http://ccflow.org/?frm=oasys)
 
