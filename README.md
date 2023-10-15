@@ -3,7 +3,7 @@
  - 如果oaSys帮助了您，请给我们点Star.
  - QQ交流群：869544047
 #### 合作伙伴
- [ ![输入图片说明](http://ccflow.org/AD/ccflowAD.png)
+ [ ![合作伙伴](http://ccflow.org/AD/ccflowAD.png)
 ](http://ccflow.org/?frm=oasys)
 
 #### 新品-垃圾识别精灵
