@@ -5,6 +5,8 @@
 #### 合作伙伴
  [ ![合作伙伴](/src/main/resources/static/images/user/ccflow.png)
 ](http://ccflow.org/?frm=oasys)
+ [ ![合作伙伴](/static/image/fenxi.jpg)
+](https://gitee.com/flyemu/public-financial)
 
 #### 新品-垃圾识别精灵
 - 可以搜索微信号进入.
