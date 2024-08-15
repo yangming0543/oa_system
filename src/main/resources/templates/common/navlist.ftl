@@ -39,6 +39,16 @@
 	<!--右侧导航栏-->
 	<ul class="nav navbar-nav navbar-right moredeep">
 		<li>
+			<a class="green-none white"  >
+				<span class="glyphicon ">技术支持 WX电话:18660153393</span>
+			</a>
+		</li>
+		<li>
+			<a href="http://ccflow.org/?frm=OA_SYS" target="_blank" class="green-none white">
+				<span class="glyphicon ">驰骋BPM</span>
+			</a>
+		</li>
+		<li>
 			<a href="javascript:void(0)" class="green-none white" data-toggle="modal" data-target="#myModal">
 				<span class="glyphicon glyphicon glyphicon-jpy">捐赠</span>
 			</a>

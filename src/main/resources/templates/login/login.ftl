@@ -118,20 +118,25 @@
 	          	<button type="button" class="close" data-dismiss="alert" aria-label="Close" style="right:0px;"><span aria-hidden="true">&times;</span></button>
 	          </div>
           <h2>LOGIN</h2>
-          <input type="text" placeholder="UserName/TeL" autofocus="autofocus" value="${(userName)!''}" name="userName" class="userName test"/>
-          <input type="password" placeholder="Password" value="" name="password" class="password test"/>
+          <input type="text" placeholder="UserName/TeL" autofocus="autofocus" value="${(userName)!'soli'}" name="userName" class="userName test"/>
+          <input type="password" placeholder="Password" value="123456" name="password" class="password test"/>
            <input type="text" placeholder="Code" style="margin-bottom: 20px;width:152px" name="code" class="code test"/>
            <div class="login-img" style="display:inline-block">
 					<img class="thisimg" onclick="this.src='captcha?r'+Date.now()" src="captcha" alt="验证码" style="width: 100px;height: 42px;border-radius: 3px;">
 				</div>
 		    <br>
        <button class="btn_login btn" type="submit" >LOGIN</button>
-       
+			<br>
+			<br>
+			<p class="modal-error-mess"> 技术支持 WX电话:18660153393</p>
         </div>
         </form>
       </div>
      <div style="border: 1px solid transparent;">
-      	<p style="margin-top: 550px;font-weight: 400;color: #757575;font-size: 22px;letter-spacing:1px ;">欢迎使用OA办公自动化系统</p>
+<#--      	<p style="margin-top: 550px;font-weight: 400;color: #757575;font-size: 22px;letter-spacing:1px ;">欢迎使用OA办公自动化系统</p>-->
+      	<p style="margin-top: 550px;letter-spacing:1px ;">
+			<a href="http://ccflow.org/?frm=OA_SYS" target="_blank"><img src="images/cc1.png"  style="height:80px" /></a>
+		</p>
       </div>
     </div>
     
